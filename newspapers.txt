@@ -1,0 +1,413 @@
+# Montgomery Advertiser
+bkrift@montgomeryadvertiser.com
+sdarnold@gannett.com
+tford@montgomeryadvertiser.com
+blyman@gannett.com
+mgalvin@gannett.com
+dgoddard@gannett.com
+jbroyles@gannett.com
+letters@montgomeryadvertiser.com
+
+# Birmingham News
+letters@al.com
+news@al.com
+
+# Alaska Dispatch News
+dhulen@alaskadispatch.com
+letters@alaskadispatch.com
+
+# Arizona Republic
+newstips@arizonarepublic.com 
+ken.alltucker@arizonarepublic.com
+robert.anglen@arizonarepublic.com
+wyatt.buchanan@gannett.com
+
+# Arkansas Democrat Gazette
+
+# Los Angeles Times
+
+# Denver Post
+newsroom@denverpost.com
+lryckman@denverpost.com
+ggriffin@denverpost.com
+mmatthews@denverpost.com
+lcolacioppo@denverpost.com
+lshapley@denverpost.com
+
+# The Hartford Courant
+kheidel@courant.com
+jferraro@courant.com
+rbgreen@courant.com
+
+# The News Journal
+wilmingtonnewsjournal@gannett.com
+newsdesk@delawareonline.com
+sleath@delawareonline.com
+dledford@delawareonline.com
+pfreedman@delawareonline.com
+letters@delawareonline.com
+
+# The Washington Post
+national@washpost.com
+letters@washpost.com
+
+# Miami Herald
+amarques@MiamiHerald.com
+rhirsch@miamiherald.com
+dwilson@miamiherald.com
+avilloch@miamiherald.com
+nancrum@miamiherald.com
+mmarquez@miamiherald.com
+
+# Atlanta Journal Constitution
+michael.joseph@ajc.com
+bcooper@ajc.com
+kriley@ajc.com
+mark.medici@ajc.com
+
+# Honolulu Star-Advertiser
+fbridgewater@staradvertiser.com
+rforness@staradvertiser.com
+akotarek@staradvertiser.com
+tcgray@staradvertiser.com
+mblack@staradvertiser.com
+
+# Idaho Statesman
+publisher@idahostatesman.com
+rprast@idahostatesman.com
+newsroom@idahostatesman.com
+rehlert@idahostatesman.com
+
+# The Chicago Tribune
+editor@chicagotribune.com
+jmccormick@chicagotribune.com
+cmcmahon@chicagotribune.com
+pkendall@chicagotribune.com
+mmay@chicagotribune.com
+
+# The Indianapolis Star
+p.miller@indystar.com
+meghan.miller@indystar.com
+mischelle.grant@indystar.com
+david.hakanson@indystar.com
+emily.hervey@indystar.com
+alvie.lindsay@indystar.com
+Jeff.Taylor@indystar.com
+amanda.kingsbury@indystar.com
+
+# The Des Moines Register
+dchivers@dmreg.com
+krjohnson@dmreg.com
+opreiksc@dmreg.com
+cbeard@dmreg.com
+chunter@dmreg.com 
+kkbrown@dmreg.com 
+kobradovich@dmreg.com 
+
+# The Wichita Eagle
+scoffman@wichitaeagle.com
+jhays@wichitaeagle.com
+mroehrman@wichitaeagle.com
+tshine@wichitaeagle.com
+
+# The Courier Journal
+raretakis@courier-journal.com
+laulbach@courier-journal.com
+theiser@courier-journal.com
+jsayers@gannett.com
+vmorgan@courier-journal.com
+triley@courier-journal.com
+
+# The Times Picayune
+circulation@nola.com
+publisher@nola.com
+lbacon-blood@nola.com
+jrball@nola.com
+dbroach@nola.com
+
+# Portland Press Herald
+cschechtman@pressherald.com
+sgreenlee@pressherald.com
+dbradbury@pressherald.com
+cconaboy@pressherald.com
+kbeaudoin@pressherald.com
+sericson@pressherald.com
+cwoodard@pressherald.com
+
+# The Sun
+trif.alatzas@baltsun.com
+sam.davis@baltsun.com
+cmcampbell@baltsun.com
+jfritze@baltsun.com
+kagordon@baltsun.com
+apyles@baltsun.com
+sjwelsh@baltsun.com
+andrew.green@baltsun.com
+steve.young@baltsun.com
+mpryce@baltsun.com
+jeff.landaw@baltsun.com
+philip.klinedinst@baltsun.com
+
+# The Boston Globe
+mcgrory@globe.com
+chinlund@globe.com
+dahl@globe.com
+m_morrow@globe.com
+d_coleman@globe.com
+c_mansbach@globe.com
+tracy.jan@globe.com
+annie.linskey@globe.com
+matt.viser@globe.com
+christopher.rowland@globe.com
+
+# Detroit Free Press
+city@freepress.com
+rmhuschka@freepress.com
+rallen@freepress.com
+eanderson@freepress.com
+tbaldas@freepress.com
+jcarlisle@freepress.com
+
+# StarTribune
+sgillespie@startribune.com
+patricia.lopez@startribune.com
+doug.tice@startribune.com
+
+# Sun Herald
+mynews@sunherald.com
+letters@sunherald.com
+bmkaplan@sunherald.com
+rzilbermints@sunherald.com
+tmsmith@sunherald.com
+jmitchell@sunherald.com
+
+# The St. Louis Post Dispatch
+gbailon@post-dispatch.com
+agoodman@post-dispatch.com
+brose@post-dispatch.com
+jbuchanan@post-dispatch.com
+cave@post-dispatch.com
+kbell@post-dispatch.com
+jcurrier@post-dispatch.com
+craasch@post-dispatch.com
+
+# Great Falls Tribune
+jstrauss@greatfallstribune.com
+kpuckett@greatfallstribune.com
+pdrake@greatfallstribune.com
+
+# Omaha World Herald
+terry.kroeger@owh.com
+kristy.gerry@owh.com
+duane.polodna@owh.com
+mike.reilly@owh.com
+news@owh.com
+
+# Las Vegas Sun
+
+# Valley News
+newseditor@vnews.com
+dmackie@vnews.com
+
+# The Star Ledger
+eletters@starledger.com
+oped@starledger.com
+jdennan@starledger.com
+
+# The Albuquerque News
+kwalz@abqjournal.com
+kmoses@abqjournal.com
+jkirby@abqjournal.com
+dfriedman@abqjournal.com
+swilliams@abqjournal.com
+mcoleman@abqjournal.com
+donnf@abqjournal.com
+ntipton@abqjournal.com
+rclark@abqjournal.com
+
+# The Buffalo News
+subscriberservices@buffnews.com
+
+# The Charlotte Observer
+acaulkins@charlotteobserver.com
+rthames@charlotteobserver.com
+schisenhall@charlotteobserver.com
+tbatten@charlotteobserver.com
+jpope@charlotteobserver.com
+jmorrill@charlotteobserver.com
+
+# The Forum
+
+# Lincoln Journal Star
+citydesk@journalstar.com
+athomas@journalstar.com
+dbundy@journalstar.com
+nwiita@journalstar.com
+gwinters@journalstar.com
+
+
+# The Plain Dealer
+jbowman@plaind.com
+grodrigue@plaind.com
+hpatters@plaind.com
+
+# The Oklahoman
+kfry@oklahoman.com
+mshannon@oklahoman.com
+rtrammell@oklahoman.com
+mgeries@oklahoman.com
+sallen@oklahoman.com
+ccasteel@oklahoman.com
+nclay@oklahoman.com
+yourviews@opubco.com
+ocanfield@oklahoman.com
+araymond@oklahoman.com	
+
+# The Oregonian
+mkatches@oregonian.com
+tbottomly@oregonian.com
+dpeck@oregonian.com
+bschmidt@oregonian.com
+rwoolington@oregonian.com
+rdavis@oregonian.com
+cbrosseau@oregonian.com
+fzarkhin@oregonian.com
+ssuo@oregonian.com
+lgunderson@oregonian.com
+hjung@oregonian.com
+lreed@oregonian.com
+
+# The Philadelphia Inquirer
+bjorkm@phillynews.com
+brennac@phillynews.com	
+bunchw@phillynews.com
+clout@phillynews.com	
+mcloonp@phillynews.com	
+benderw@phillynews.com	
+armstrj@phillynews.com	
+baerj@phillynews.com	
+
+# The Providence Journal
+newstips@providencejournal.com
+editors@providencejournal.com
+breakingnews@providencejournal.com
+dbutler@providencejournal.com
+pphipps@providencejournal.com
+arosenbe@providencejournal.com
+eachorn@providencejournal.com
+
+# The Post and Courier
+mpugh@postandcourier.com
+rnelson@postandcourier.com
+anugent@postandcourier.com
+bmiller@postandcourier.com
+crowe@postandcourier.com
+wooten@postandcourier.com
+skropf@postandcourier.com
+gsmith@postandcourier.com
+tbartelme@postandcourier.com
+jhawes@postandcourier.com
+dpardue@postandcourier.com
+brindge@postandcourier.com
+egillespie@postandcourier.com
+
+# Argus Leader
+balbrecht@argusleader.com
+rallen1@gannett.com
+jthaden@argusleader.com
+panderson@argusleader.com
+dferguson@argusleader.com
+jsneve@argusleader.com
+mwalker@argusleader.com
+
+# The Commercial Appeal
+danny.bowen@commercialappeal.com
+louis.graham@commercialappeal.com
+mark.russell@commercialappeal.com
+david.royer@commercialappeal.com
+clay.bailey@commercialappeal.com
+katherine.fretland@commercialappeal.com
+jacinthia.jones@commercialappeal.com
+yolanda.jones@commercialappeal.com
+jody.callahan@commercialappeal.com
+
+# The Dallas Morning News
+jlovegrove@dallasnews.com	
+
+# The Salt Lake Tribune
+tburr@sltrib.com
+mcanham@sltrib.com
+fitz@sltrib.com
+mikeg@sltrib.com
+dharrie@sltrib.com
+paul@sltrib.com
+srmccann@sltrib.com
+remims@sltrib.com
+jnpearce@sltrib.com
+csmart@sltrib.com
+
+# Burlington Free Press
+asilverman@freepressmedia.com	
+estigliani@freepressmedia.com	
+joelbaird@freepressmedia.com	
+aburbank@freepressmedia.com
+
+# The Virginian-Pilot
+steve.gunn@pilotonline.com
+bill.henry@pilotonline.com
+jeff.reece@pilotonline.com
+bill.bartel@pilotonline.com
+joanne.kimberlin@pilotonline.com
+patrick.wilson@pilotonline.com
+
+# The Seattle Post
+citydesk@seattlepi.com
+
+# The Seattle Times
+rwagoner@seattletimes.com
+jbrunner@seattletimes.com
+cclarridge@seattletimes.com
+vcoleman@seattletimes.com
+dgutman@seattletimes.com
+
+# Dominion Post
+pqueen@dominionpost.com	
+ame@dominionpost.com	
+administration@dominionpost.com	
+publisher@dominionpost.com
+opinion@dominionpost.com
+newsroom@dominionpost.com
+
+# Journal Sentinel
+jsmetro@journalsentinel.com
+jsedit@journalsentinel.com
+george.stanley@jrn.com
+chuck.melvin@jrn.com
+jnelson@journalsentinel.com
+tcontent@journalsentinel.com
+tkoetting@journalsentinel.com
+michael.mulvey@jrn.com
+craig.gilbert@jrn.com
+bglauber@journalsentinel.com
+gborowski@journalsentinel.com
+
+# Star Tribune
+editors@trib.com
+
+# New York Times
+public@nytimes.com
+publisher@nytimes.com
+generalmgr@nytimes.com
+
+# USAToday
+
+msafran@usatoday.com
+
+# WSJ
+support@wsj.com
+support@barrons.com
+paul.beckett@wsj.com
+thorold.barker@wsj.com
+wsj.ltrs@wsj.com
+edit.features@wsj.com
+newsroom@wsj.com
