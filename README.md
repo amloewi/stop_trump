@@ -5,7 +5,7 @@ However you want to do it, this is a script that makes it a little easier. With 
  whose emails are public). Journalists, surprise surprise, get written to much less, and are much more likely to see what you send.
  ALTHOUGH, in every case, a phone call is still more powerful than email.
 
-I tried to make this a website, but the value here is that the email the recipienct see will be from YOUR ACCOUNT,
+I tried to make this a website, but the value here is that the email the recipient see will be from YOUR ACCOUNT,
 not from a million-person petition, and that makes gmail permissions a lot trickier. For now, there's this.
 
 ## How To:
